@@ -72,9 +72,7 @@
 </a>
 </td>
 
-<td align="center">
-<img src="https://img.shields.io/badge/Discord-sreedhayan-0D1117?style=for-the-badge&logo=discord&logoColor=8B5CF6" alt="Discord"/>
-</td>
+
 
 <td align="center">
 <a href="https://huggingface.co/sreedhayan">
