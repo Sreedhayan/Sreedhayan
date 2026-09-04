@@ -7,55 +7,14 @@
 
 <!--
 ╔══════════════════════════════════════════════════════════════╗
-║               PROFILE CONTROL PANEL — EDIT ONLY HERE          ║
-║   Everything below this block is already rendered with the    ║
-║   values here. To change a link, toggle, or color, edit the   ║
-║   config AND the matching spot in the rendered sections.       ║
+║               PROFILE CONTROL PANEL — EDIT ONLY HERE         ║
+║   Everything below this block is already rendered with the   ║
+║   values here. To change a link, toggle, or color, edit the  ║
+║   config AND the matching spot in the rendered sections.     ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
 
-```yaml
-# ── IDENTITY ──────────────────────────────────────────────────
-NAME:              Sreedhayan
-GITHUB_USERNAME:   Sreedhayan
-EMAIL:             k.sreedhayan@gmail.com
-LINKEDIN:          https://www.linkedin.com/in/sreedhayan-k-b0374a3b7/
-INSTAGRAM:         https://www.instagram.com/sreedhayan.k/
-X:                 https://x.com/sreedhayan
-DISCORD:           sreedhayan
-HUGGING_FACE:      https://huggingface.co/sreedhayan
-KAGGLE:            https://www.kaggle.com/sreedhayan
-REDDIT:            https://www.reddit.com/user/ParfaitSweet6600/
-WEBSITE:           none
-YOUTUBE:           none
 
-# ── VISIBILITY SWITCHES ──────────────────────────────────────
-SHOW_EMAIL:         TRUE
-SHOW_LINKEDIN:      TRUE
-SHOW_INSTAGRAM:     TRUE
-SHOW_X:             TRUE
-SHOW_DISCORD:       TRUE
-SHOW_HUGGING_FACE:  TRUE
-SHOW_KAGGLE:        TRUE
-SHOW_REDDIT:        TRUE
-SHOW_WEBSITE:       FALSE
-SHOW_YOUTUBE:       FALSE
-
-# ── THEME ─────────────────────────────────────────────────────
-# Options:  A-DEEP_SPACE_GLASS  B-CYBER_NEON  C-OBSERVATORY
-#           D-TERMINAL_VOID     E-MONOCHROME_FUTURE
-THEME:              A — DEEP SPACE GLASS
-ACCENT:              CYAN     (#00F0FF)
-SECONDARY_ACCENT:    VIOLET   (#8B5CF6)
-BACKGROUND:          VOID     (#0D1117)
-MOTION:              MAXIMUM
-
-# ── ARCHIVE SWITCHES (reserved for later) ───────────────────
-SHOW_ACHIEVEMENTS:        FALSE
-SHOW_CERTIFICATIONS:      FALSE
-SHOW_AWARDS:               FALSE
-SHOW_FEATURED_PROJECTS:   FALSE
-```
 
 <br>
 
@@ -82,14 +41,14 @@ SHOW_FEATURED_PROJECTS:   FALSE
 
 ```text
 ╭──────────────────────────────────────────────────────────╮
-│                     ◉  CORE  DIAGNOSTICS                  │
+│                    ◉  CORE  DIAGNOSTICS                 │
 ├──────────────────────────────────────────────────────────┤
-│  CORE STATUS        : ONLINE                              │
-│  MODE                : EXPLORATION                         │
-│  PRIMARY DOMAIN      : AI / SOFTWARE / SCIENCE             │
-│  SECONDARY DOMAIN    : SPACE / COMPUTING / SYSTEMS         │
-│  CURIOSITY ENGINE    : ACTIVE                              │
-│  MISSION             : BUILD → LEARN → EXPERIMENT          │
+│  CORE STATUS        : ONLINE                             │
+│  MODE                : EXPLORATION                       │
+│  PRIMARY DOMAIN      : AI / SOFTWARE / SCIENCE           │
+│  SECONDARY DOMAIN    : SPACE / COMPUTING / SYSTEMS       │
+│  CURIOSITY ENGINE    : ACTIVE                            │
+│  MISSION             : BUILD → LEARN → EXPERIMENT        │
 ╰──────────────────────────────────────────────────────────╯
 ```
 
@@ -198,13 +157,13 @@ No unnecessary biography. Just the work.
 
 ```text
 ╔══════════════════════════════════════════╗
-║              AI RESEARCH LAB              ║
+║              AI RESEARCH LAB             ║
 ╠══════════════════════════════════════════╣
-║ LLMs .......................... EXPLORING ║
-║ AGENTS ........................ BUILDING  ║
-║ LOCAL AI ....................... ACTIVE   ║
-║ AGENTIC WORKFLOWS .............. TESTING  ║
-║ AUTOMATION ...................... TESTING ║
+║ LLMs .......................... EXPLORING║
+║ AGENTS ........................ BUILDING ║
+║ LOCAL AI ....................... ACTIVE  ║
+║ AGENTIC WORKFLOWS .............. TESTING ║
+║ AUTOMATION ...................... TESTING║
 ╚══════════════════════════════════════════╝
 ```
 
@@ -218,20 +177,20 @@ No unnecessary biography. Just the work.
                      ORBITAL MAP
                           │
               ┌───────────┴───────────┐
-              │        ASTRONOMY       │
+              │        ASTRONOMY      │
               └───────────┬───────────┘
                           │
               ┌───────────┴───────────┐
-              │      ASTROPHYSICS      │
+              │      ASTROPHYSICS     │
               └───────────┬───────────┘
                           │
               ┌───────────┴───────────┐
-              │       COSMOLOGY        │
+              │       COSMOLOGY       │
               └───────────┬───────────┘
                           │
               ┌───────────┴───────────┐
-              │   SPACE TECHNOLOGY      │
-              └─────────────────────────┘
+              │   SPACE TECHNOLOGY    │
+              └───────────────────────┘
 
      COORDINATES : UNKNOWN — SIGNAL ORIGIN CLASSIFIED
 ```
@@ -282,11 +241,11 @@ No unnecessary biography. Just the work.
 
 ```text
 ╭──────────────────────────────────────────────────────────╮
-│                    [ FUTURE MODULE ]                       │
-│                                                              │
-│         Ideas enter here.  Experiments come out.            │
-│                                                              │
-│         The archive is being assembled.                     │
+│                    [ FUTURE MODULE ]                     │
+│                                                          │
+│         Ideas enter here.  Experiments come out.         │
+│                                                          │
+│         The archive is being assembled.                  │
 ╰──────────────────────────────────────────────────────────╯
 ```
 
