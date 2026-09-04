@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3200&pause=1300&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=ENTERING+THE+UNKNOWN...;SYSTEM+ONLINE+%E2%97%89;AI+%C3%97+CODE+%C3%97+SCIENCE+%C3%97+SPACE;BUILDING+%E2%80%A2+EXPLORING+%E2%80%A2+EXPERIMENTING;THE+NEXT+DISCOVERY+IS+ALWAYS+OUT+THERE." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3200&pause=1300&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=ENTERING+THE+UNKNOWN...;UNLEASH+YOUR+IMAGINATION!+%E2%97%89;IMAGINE+%C3%97+DESIGN+%C3%97+CREATE+%C3%97+OUT+OF+THE+UNIVERSAL+BOX;BUILDING+%E2%80%A2+EXPLORING+%E2%80%A2+EXPERIMENTING;THE+NEXT+DISCOVERY+IS+ALWAYS+OUT+THERE." alt="Typing SVG"/>
 </a>
 
 <br><br>
