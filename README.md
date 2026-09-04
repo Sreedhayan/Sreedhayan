@@ -17,9 +17,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Sreedhayan&color=00F0FF&style=flat-square&label=SIGNAL+RECEIVED&labelColor=0D1117" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Sreedhayan&color=00F0FF&style=flat-square&label=SEEN&labelColor=0D1117" alt="Profile views"/>
 
-<img src="https://img.shields.io/github/followers/Sreedhayan?style=flat-square&color=00F0FF&labelColor=0D1117&label=UPLINK+FOLLOWERS" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/Sreedhayan?style=flat-square&color=00F0FF&labelColor=0D1117&label=FOLLOWERS" alt="GitHub followers"/>
 
 </div>
 
